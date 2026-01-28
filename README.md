@@ -202,7 +202,8 @@ This project demonstrates:
 
 **Labious Phetoane**  
 Junior Java Developer | SQL | Backend Systems
-
++2762 858 5758
+estphetoane@gmail.com
 ---
 
 ## 📄 License
